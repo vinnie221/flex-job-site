@@ -27,7 +27,8 @@ body {
 #home {font-size: xx-large;
     color: hsl(234, 90%, 45%);
     position: relative;
-    animation: moveRightToLeft 10s linear infinite;
+    font-family: 'Times New Roman', Times, serif;
+    /* animation: moveRightToLeft 10s linear infinite; */
     
 }
 @keyframes moveRightToLeft {
